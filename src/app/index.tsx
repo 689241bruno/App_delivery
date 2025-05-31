@@ -1,6 +1,6 @@
 import Constants from "expo-constants";
 import { ScrollView, View } from "react-native";
-import Header from "./components/header";
+import Header from "../components/header";
 const statusBarHeight = Constants.statusBarHeight;
 
 export default function Index() {
